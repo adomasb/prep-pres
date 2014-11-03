@@ -1,0 +1,29 @@
+Kaggle, tools, git & repos
+========================================================
+author: Adomas
+date: 2014-11-03
+
+Kaggle
+========================================================
+
+Register at:
+
+https://www.kaggle.com
+
+Competition:
+
+https://www.kaggle.com/c/bike-sharing-demand
+
+Our task is to predict usage of bike sharing system for the following day. Therefore, patterns in usage should be revealed for good predictions.
+
+
+Leaderboards
+========================================================
+
+Leaderboards could be find here:
+
+https://www.kaggle.com/c/bike-sharing-demand/leaderboard
+
+One should notice that first one is strongly ahead. About 0.17 score difference from second competitor (not team!).
+
+Moreover, distinction between the 30th competitor and 477th is about 
