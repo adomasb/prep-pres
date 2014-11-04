@@ -84,3 +84,7 @@ Packages that we **definitely** going to use:
 
 Git repo
 ===========================================================
+
+From now on we will use this repo for kaggle:
+
+[Exacaster Kaggle repo](https://github.com/sarukas/exacaster_kaggle)
